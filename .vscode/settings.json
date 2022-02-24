@@ -1,0 +1,15 @@
+{
+  "prettier.arrayExpand": true,
+  "prettier.alignObjectProperties": true,
+  "prettier.jsxSingleQuote": true,
+  "html.format.endWithNewline": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.insertPragma": true,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
